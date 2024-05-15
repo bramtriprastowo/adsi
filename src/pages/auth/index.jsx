@@ -2,6 +2,7 @@ import React from "react";
 import imageProfile from "../../assets/pngtree-male-gender-profile-circle-user.png";
 
 const Login = () => {
+  // const onClick => () 
   return (
     <div className="min-h-screen flex items-center justify-center w-full dark:bg-gray-950">
       <div className="bg-white dark:bg-gray-900 shadow-md rounded-lg px-8 py-6 max-w-md">
